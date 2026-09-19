@@ -28,3 +28,5 @@ He likes playing, creating things and doing nothing :-)
 {% else %}
 * No published post yet.
 {% endif %}
+
+**[Xem tất cả bài viết ứng với mọi mốc thời gian tại đây]({{ "/archive/" | relative_url }})**
