@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Tất cả bài viết
+title: All posts
 permalink: /archive/
 ---
 
-# Tất cả bài viết
+# List of all posts 
 
-Dưới đây là danh sách toàn bộ các bài viết đã được đăng trên trang web này, xếp theo thứ tự thời gian từ mới nhất đến cũ nhất.
+Following is the list of all posts published here, ordered by date and time.
 
 ---
 
@@ -15,5 +15,5 @@ Dưới đây là danh sách toàn bộ các bài viết đã được đăng tr
 * **{{ post.date | date: "%d/%m/%Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 {% else %}
-* Chưa có bài viết nào được xuất bản.
+* None published.
 {% endif %}
