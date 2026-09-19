@@ -22,13 +22,6 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% if site.github.is_project_page %}
-          <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
       </header>
       
       <section>
@@ -40,7 +33,8 @@
         <p>© 2026 {{ site.title }}. All rights reserved.</p>
         <p>
           <a href="https://www.flickr.com/photos/fridaycafe/" target="_blank">Flickr</a> | 
-          <a href="http://fridaycafe.blogspot.com/" target="_blank">Blogger</a> 
+          <a href="http://fridaycafe.blogspot.com/" target="_blank">Blogger</a> |
+          <a href="{{ site.github.owner_url }}">GitHub</a>
         </p>
         <!-- HẾT KHU VỰC CHỈNH SỬA -->
       </footer>
