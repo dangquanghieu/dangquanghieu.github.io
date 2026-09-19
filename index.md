@@ -3,7 +3,7 @@ layout: default
 title: Trang chủ
 ---
 
-# About
+### About
 
 Hieu is a lazy employee (at [HUST](http://www.hust.edu.vn/)) and a devoted dreamer. 
 He used to be a prolific blogger, a street photographer, and a reluctant translator. 
@@ -18,10 +18,10 @@ He likes playing, creating things and doing nothing :-)
 
 ---
 
-### Các bài viết mới nhất
+### Recents
 
 {% if site.posts.size > 0 %}
-{% for post in site.posts %}
+{% for post in site.posts limit:10 %}
 * **{{ post.date | date: "%d/%m/%Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 {% else %}
