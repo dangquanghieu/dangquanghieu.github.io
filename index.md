@@ -16,8 +16,10 @@ title: Trang chủ
 
 ### Các bài viết mới nhất
 
+{% if site.posts.size > 0 %}
 {% for post in site.posts %}
 * **{{ post.date | date: "%d/%m/%Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
-{% empty %}
-* Chưa có bài viết nào được xuất bản.
 {% endfor %}
+{% else %}
+* Chưa có bài viết nào được xuất bản.
+{% endif %}
