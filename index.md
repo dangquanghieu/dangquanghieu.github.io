@@ -7,7 +7,7 @@ layout: default
 Đây là bài viết đầu tiên của tôi sử dụng Jekyll và giao diện Minimal. 
 
 ### Các chủ đề yêu thích:
-* Lập trình
+* Chụp ảnh
 * Đọc sách
 * Chia sẻ trải nghiệm
 
