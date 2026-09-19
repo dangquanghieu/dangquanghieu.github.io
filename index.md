@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trang chủ
+title: Homepage
 ---
 
 ### About
@@ -11,10 +11,11 @@ He likes playing, creating things and doing nothing :-)
 
 ### Stuffs
 * [Signals and Systems](https://www.dropbox.com/sh/x83lkx5cynld9gm/AAAZrMx13lmI6A8h6eUTdDnca?dl=0)
+* [Digital Signal Processing] (https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&dl=0)
 * SPCOM
 * UWB
 * Playing go
-* Tea drinking
+* [Tea drinking](https://trachieu.tumblr.com/)
 
 ---
 
@@ -25,5 +26,5 @@ He likes playing, creating things and doing nothing :-)
 * **{{ post.date | date: "%d/%m/%Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 {% else %}
-* Chưa có bài viết nào được xuất bản.
+* No published post yet.
 {% endif %}
