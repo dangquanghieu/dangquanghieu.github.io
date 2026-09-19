@@ -12,3 +12,12 @@ title: Trang chủ
 * Đọc sách
 * Chia sẻ trải nghiệm
 
+---
+
+### Các bài viết mới nhất
+
+{% for post in site.posts %}
+* **{{ post.date | date: "%d/%m/%Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
+{% empty %}
+* Chưa có bài viết nào được xuất bản.
+{% endfor %}
