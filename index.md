@@ -3,9 +3,11 @@ layout: default
 title: Trang chủ
 ---
 
-# Chào mừng đến với trang web của tôi!
+# About
 
-Đây là bài viết đầu tiên của tôi sử dụng Jekyll và giao diện Minimal. 
+Hieu is a lazy employee (at <a href="http://www.hust.edu.vn/">HUST</a>) and a devoted dreamer. 
+He used to be a prolific blogger, a street photographer, and a reluctant translator. 
+He likes playing, creating things and doing nothing :-)  
 
 ### Các chủ đề yêu thích:
 * Chụp ảnh
