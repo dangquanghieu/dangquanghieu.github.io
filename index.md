@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Trang chủ
 ---
 
 # Chào mừng đến với trang web của tôi!
