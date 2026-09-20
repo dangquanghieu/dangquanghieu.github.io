@@ -1,0 +1,22 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@media (max-width: 640px) {
+  header {
+    padding-bottom: 10px !important;
+    margin-bottom: 15px !important;
+    
+    // Ẩn dòng mô tả blog để tiết kiệm không gian
+    p {
+      display: none !important;
+    }
+    
+    // Làm thu nhỏ tiêu đề blog chính lại một chút
+    h1 {
+      font-size: 1.4em !important;
+      margin-bottom: 0 !important;
+    }
+  }
+}
