@@ -14,6 +14,7 @@ He likes playing, creating things and doing nothing :-)
 * [Digital Signal Processing](https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&dl=0)
 * SPCOM
 * UWB
+* AI (who doesn't? it is complicated ...)
 * Playing go (also called as weiqi, baduk or "cờ vây")
 * [Tea drinking](https://trachieu.tumblr.com/)
 
