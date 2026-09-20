@@ -4,7 +4,7 @@ title: All posts
 permalink: /archive/
 ---
 
-# List of all posts 
+## List of all posts 
 
 Following is the list of all posts published here, ordered by date and time.
 
