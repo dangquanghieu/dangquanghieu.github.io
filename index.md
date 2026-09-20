@@ -17,6 +17,7 @@ He likes playing, creating things and doing nothing :-)
 * AI (who doesn't? it is complicated ...)
 * Playing go (also called as weiqi, baduk or "cờ vây")
 * [Tea drinking](https://trachieu.tumblr.com/)
+* Photography (taking snapshots of things around me, again!)
 
 ---
 
