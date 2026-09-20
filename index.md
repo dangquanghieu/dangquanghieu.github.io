@@ -25,7 +25,7 @@ He likes playing, creating things and doing nothing :-)
 
 {% if site.posts.size > 0 %}
 {% for post in site.posts limit:10 %}
-* **{{ post.date | date: "%d/%m/%Y" }}** — [{{ post.title }}]({{ post.url | relative_url }})
+* {{ post.date | date: "%d/%m/%Y" }} — [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 {% else %}
 * No published post yet.
