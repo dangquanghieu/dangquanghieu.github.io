@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Tôi sẽ viết gì đây?"
 date: 2026-09-19
 ---
