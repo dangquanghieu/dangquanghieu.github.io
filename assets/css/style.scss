@@ -20,3 +20,100 @@
     }
   }
 }
+
+@media (max-width: 640px) {
+  body {
+    padding: 15px !important; // Giảm khoảng trống viền ngoài màn hình ngoài cùng
+  }
+  
+  .wrapper {
+    width: 100% !important;
+    margin: 0 auto !important;
+  }
+
+  section {
+    padding: 0 !important; // Ép nội dung chữ dàn đều ra sát viền (vẫn giữ khoảng cách an toàn)
+  }
+}
+
+@media (max-width: 640px) {
+  // Tăng kích thước chữ bài viết và khoảng cách dòng cho dễ đọc bằng mắt thường
+  section p, section li {
+    font-size: 16px !important;
+    line-height: 1.65 !important;
+    color: #222222 !important; // Màu chữ gần đen giúp tương phản tốt, không bị nhức mắt
+  }
+
+  // Tối ưu các thẻ tiêu đề trong bài viết (h2, h3)
+  section h2 { font-size: 1.4em !important; margin-top: 1.5em !important; }
+  section h3 { font-size: 1.2em !important; margin-top: 1.3em !important; }
+
+  // Đảm bảo hình ảnh và code block không bao giờ bị vỡ hay tràn màn hình mobile
+  img, pre, code {
+    max-width: 100% !important;
+    box-sizing: border-box;
+  }
+}
+
+/* ==========================================================================
+   TỰ ĐỘNG KÍCH HOẠT DARK MODE THEO CÀI ĐẶT HỆ THỐNG THIẾT BỊ
+   ========================================================================== */
+@media (prefers-color-scheme: dark) {
+  // Thay đổi màu nền tổng thể và màu chữ toàn trang
+  body {
+    background-color: #1a1a1a !important; // Nền đen xám dịu mắt (không bị đen kịt)
+    color: #e0e0e0 !important;            // Chữ màu trắng xám giảm lóa
+  }
+
+  // Chỉnh sửa màu sắc phần Header (Thanh bên / Thanh đỉnh)
+  header {
+    h1 a {
+      color: #ffffff !important;          // Tiêu đề trang màu trắng nổi bật
+    }
+    p {
+      color: #a0a0a0 !important;          // Mô tả trang màu xám nhạt
+    }
+  }
+
+  // Tối ưu các thẻ nội dung bài viết
+  section {
+    h1, h2, h3, h4, h5, h6 {
+      color: #ffffff !important;          // Toàn bộ tiêu đề trong bài viết màu trắng
+    }
+    
+    p, li, blockquote {
+      color: #e0e0e0 !important;          // Nội dung văn bản
+    }
+
+    // Đổi màu đường kẻ ngang phân cách thành màu xám tối
+    hr {
+      border-color: #333333 !important;
+      background-color: #333333 !important;
+    }
+
+    // Đổi màu cho các liên kết (Links) để dễ nhìn trên nền tối
+    a {
+      color: #64b5f6 !important;          // Màu xanh dương sáng dịu
+      
+      &:hover {
+        color: #90caf9 !important;        // Màu khi di chuột vào
+      }
+    }
+  }
+
+  // Khung chứa mã nguồn (Code Blocks) và các đoạn code ngắn
+  pre, code {
+    background-color: #2d2d2d !important; // Nền khung code tối hơn một chút
+    color: #f8f8f2 !important;            // Màu chữ code sáng
+    border: 1px solid #3d3d3d !important;
+  }
+
+  // Tùy chỉnh phần chân trang (Footer)
+  footer {
+    color: #888888 !important;            // Chữ bản quyền màu xám tối
+    
+    a {
+      color: #64b5f6 !important;
+    }
+  }
+}
