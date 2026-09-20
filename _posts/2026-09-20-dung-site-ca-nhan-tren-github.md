@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Dựng site cá nhân trên GitHub"
 date: 2026-09-20
 ---
