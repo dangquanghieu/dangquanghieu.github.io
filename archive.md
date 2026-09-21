@@ -4,9 +4,9 @@ title: Archive
 permalink: /archive/
 ---
 
-## List of all posts 
+## Archive 
 
-Following is the list of all posts published here, ordered by date and time.
+Following is the list of all posts, ordered by date and time.
 
 ---
 
