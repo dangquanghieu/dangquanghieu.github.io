@@ -16,7 +16,7 @@ Hì hụi cả buổi, soạn ra 10 slides rồi mà vẫn chưa xong. Vẫn cò
 Nếu lười biếng chỉ dùng text, equation, thỉnh thoảng thêm hình vẽ Matlab thì mất chừng một buổi nữa.
 Còn nếu kì công vẽ hình minh họa, pstricks các kiểu thì không biết tới khi nào ...
 
-[Link đây](https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&dl=0)
+[Link bài giảng](https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&dl=0).
 Những files này chắc đang hỗn độn giữa cũ và mới. Khi nào xong thì tôi sẽ dọn dẹp một thể. 
 
 Anyway, việc cần làm nên vẫn cứ phải làm thôi. Hy vọng sau đó tôi có thể tái sử dụng chúng 
