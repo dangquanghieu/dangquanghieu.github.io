@@ -19,7 +19,7 @@ và các giáo trình (tiếng Anh) kinh điển về DSP trên thế giới (nh
 
 ---
 
-[Slides cho môn XLTH](https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&st=p4wt6d1q&dl=0)
+[Slides cho môn XLTH](https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&st=p4wt6d1q&dl=0) Tóm tắt nội dung các slides:
 
 1. Ôn tập về tín hiệu và hệ thống rời rạc. Cách biểu diễn tín hiệu, các phép toán, hàm xung đơn vị, nhảy đơn vị. Hệ thống LTI, phép chập và đáp ứng xung. Biểu diễn hệ thống qua PTSP và qua sơ đồ hệ thống.
 2. Phân tích hệ thống trên miền z. Cặp biến đổi z thuận / ngược. Miền hội tụ. Khái niệm cực / không. Vai trò trung tâm của hàm truyền. Tiêu chuẩn ổn định Schur - Cohn. Lưu đồ tín hiệu, công thức Mason. Dạng trực tiếp I, II và chuyển vị.
