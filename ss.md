@@ -8,7 +8,7 @@ permalink: /ss/
 
 Đây là môn học khá mới, được ĐHBK HN đưa vào chương trình giảng dạy từ đầu những năm 2010. Tôi là người soạn đề cương và slides
 cho môn "Tín hiệu và hệ thống" (THHT) để dạy sinh viên năm 2-3 với vai trò là môn cơ sở của ngành Điện tử - Viễn thông. 
-Slides vẫn liên tục được cập nhật từ hồi đó tới giờ nhưng giáo trình tiếng Việt lại chưa có. Tôi bắt đầu viết từ khoảng 10 năm trước, nhưng lại bỏ dở vì nhiều lí do. Hy vọng trong tháng 10 - 2026 này tôi hoàn thảnh được bản draft đầu tiên để chia sẻ cho 
+Slides vẫn liên tục được cập nhật từ hồi đó tới giờ nhưng giáo trình tiếng Việt lại chưa có. Tôi bắt đầu viết từ khoảng năm 2015, nhưng nhiều lần bỏ dở vì nhiều lí do. Hy vọng trong tháng 10 - 2026 này tôi hoàn thảnh được bản draft đầu tiên để chia sẻ cho 
 sinh viên và đồng nghiệp.
 
 ---
