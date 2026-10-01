@@ -30,5 +30,4 @@ và các giáo trình (tiếng Anh) kinh điển về DSP trên thế giới (nh
 6. Thiết kế bộ lọc IIR. Phương pháp bất biến xung, biến đổi song tuyến.
 7. Bonus: Khái niệm cấu trúc bộ lọc, độ nhạy, sai số lượng tử hóa. Bộ lọc biquad.
 
-Ngoài ra, tôi còn giảng dạy môn "Xử lý tín hiệu số nâng cao". Slides soạn được khá nhiều, nhưng chưa hoàn thiện. 
-Để "vài bữa" nữa, khi đầy đủ hơn thì tôi sẽ share public ;)
+Ngoài ra, tôi còn giảng dạy môn "Xử lý tín hiệu số nâng cao" cho chương trình sau đại học. 
