@@ -10,7 +10,7 @@ He used to be a prolific blogger, a street photographer, and a reluctant transla
 He likes playing, creating things and doing nothing :-)  
 
 ### Stuffs
-* [Signals and Systems](https://www.dropbox.com/sh/x83lkx5cynld9gm/AAAZrMx13lmI6A8h6eUTdDnca?dl=0)
+* [Signals and Systems]({{ "/ss/" | relative_url }})
 * [Digital Signal Processing]({{ "/dsp/" | relative_url }})
 * SPCOM
 * UWB
