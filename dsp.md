@@ -6,7 +6,7 @@ permalink: /dsp/
 
 ## Xử lý tín hiệu số 
 
-Tôi tham gia giảng dạy môn này từ khi mới về trường ĐHBK HN năm 1999. Người hướng dẫn tôi là 
+Tôi tham gia giảng dạy môn này từ khi mới về trường ĐHBK HN năm 1999. Người hướng dẫn tôi 
 là thầy Nguyễn Quốc Trung, tác giả cuốn "Xử lý số tín hiệu" mà sinh viên Điện tử - Viễn thông của BK 
 chắc là đã quá quen rồi. Hồi đó chưa có môn "Tín hiệu và hệ thống" (THHT) nên phần đầu của môn "Xử lý tín hiệu số" (XLTH)
 vẫn là về tín hiệu và hệ thống rời rạc. Đến đầu những năm 2010, khi THHT chính thức đưa vào giảng dạy thì XLTH
