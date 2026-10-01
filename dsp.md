@@ -21,5 +21,5 @@ và các giáo trình (tiếng Anh) kinh điển về DSP trên thế giới (nh
 
 [Slides cho môn XLTH](https://www.dropbox.com/scl/fo/y7jkblp6xa8zcyq6nntzh/AN-HDuQl4-esSACCzj6WHC8?rlkey=qkfpolduoiscqb68i542yc2rs&st=p4wt6d1q&dl=0)
 
-Ngoài ra, tôi còn giảng dạy môn "Xử lý tín hiệu số" nâng cao. Slides soạn được khá nhiều, nhưng chưa hoàn thiện. 
-Để "vài bữa" nữa, khi đầy đủ hơn thì tôi sẽ share public.
+Ngoài ra, tôi còn giảng dạy môn "Xử lý tín hiệu số nâng cao". Slides soạn được khá nhiều, nhưng chưa hoàn thiện. 
+Để "vài bữa" nữa, khi đầy đủ hơn thì tôi sẽ share public ;)
