@@ -24,8 +24,8 @@ và các giáo trình (tiếng Anh) kinh điển về DSP trên thế giới (nh
 1. Ôn tập về tín hiệu và hệ thống rời rạc. Cách biểu diễn tín hiệu, các phép toán, hàm xung đơn vị, nhảy đơn vị. Hệ thống LTI, phép chập và đáp ứng xung. Biểu diễn hệ thống qua PTSP và qua sơ đồ hệ thống.
 2. Phân tích hệ thống trên miền z. Cặp biến đổi z thuận / ngược. Miền hội tụ. Khái niệm cực / không. Vai trò trung tâm của hàm truyền. Tiêu chuẩn ổn định Schur - Cohn. Lưu đồ tín hiệu, công thức Mason. Dạng trực tiếp I, II và chuyển vị.
 3. Các phép biến đổi Fourier. FT - phổ của tín hiệu và đáp ứng tần số của hệ thống. DFS. DFT/IDFT: các tính chất, mối liên hệ, dạng ma trận. 
-4. FFT và ứng dụng. Thuật toán FFT cơ số 2 DIT và DIF. Thực hiện hệ thống FIR. Phân tích phổ thời gian thực.
-5. Thiết kế bộ lọc FIR. Pha tuyến tính. Phương pháp cửa sổ, lấy mẫu tần số. 
+4. FFT và ứng dụng. Thuật toán FFT cơ số 2 DIT và DIF. Độ phức tạp tính toán. Thực hiện hệ thống FIR. Phân tích phổ thời gian thực.
+5. Thiết kế bộ lọc FIR. Pha tuyến tính. Phương pháp cửa sổ, phương pháp lấy mẫu tần số. 
 6. Thiết kế bộ lọc IIR. Phương pháp bất biến xung, biến đổi song tuyến.
 7. Bonus: Khái niệm cấu trúc bộ lọc, độ nhạy, sai số lượng tử hóa. Bộ lọc biquad.
 
