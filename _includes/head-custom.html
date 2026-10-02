@@ -4,24 +4,3 @@
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="manifest" href="/site.webmanifest">
 <meta name="theme-color" content="#1D5C63">
-
-{% if page.math %}
-<!-- Tải CSS của KaTeX -->
-<link rel="stylesheet" href="https://jsdelivr.net">
-
-<!-- Tải JS của KaTeX (Sử dụng defer để không chặn tải trang) -->
-<script defer src="https://jsdelivr.net"></script>
-
-<!-- Tải Tiện ích Tự động quét và Render công thức -->
-<script defer src="https://jsdelivr.net"
-    onload="renderMathInElement(document.body, {
-        delimiters: [
-            {left: '$$', right: '$$', display: true},
-            {left: '$', right: '$', display: false},
-            {left: '\\(', right: '\\)', display: false},
-            {left: '\\[', right: '\\]', display: true}
-        ],
-        throwOnError : false
-    });">
-</script>
-{% endif %}
