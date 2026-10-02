@@ -7,17 +7,18 @@
 
 {% if page.math %}
 <script>
-  MathJax = {
+  window.MathJax = {
     tex: {
-      inlineMath: [['$', '$'], ['\\(', '\\)']],
-      displayMath: [['$$', '$$'], ['\\[', '\\]']]
+      inlineMath: [ ['\\(','\\)'], ['$', '$'] ],
+      displayMath: [ ['\\[','\\]'], ['$$', '$$'] ]
     },
-    svg: {
-      fontCache: 'global'
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
     }
   };
 </script>
-<script type="text/javascript" id="MathJax-script" async
+<script type="text/javascript" id="MathJax-script" defer
   src="https://jsdelivr.net">
 </script>
 {% endif %}
+
