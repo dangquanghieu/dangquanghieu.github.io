@@ -6,19 +6,22 @@
 <meta name="theme-color" content="#1D5C63">
 
 {% if page.math %}
-<script>
-  window.MathJax = {
-    tex: {
-      inlineMath: [ ['\\(','\\)'], ['$', '$'] ],
-      displayMath: [ ['\\[','\\]'], ['$$', '$$'] ]
-    },
-    options: {
-      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
-    }
-  };
-</script>
-<script type="text/javascript" id="MathJax-script" defer
-  src="https://jsdelivr.net">
+<!-- Tải CSS của KaTeX -->
+<link rel="stylesheet" href="https://jsdelivr.net">
+
+<!-- Tải JS của KaTeX (Sử dụng defer để không chặn tải trang) -->
+<script defer src="https://jsdelivr.net"></script>
+
+<!-- Tải Tiện ích Tự động quét và Render công thức -->
+<script defer src="https://jsdelivr.net"
+    onload="renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\(', right: '\\)', display: false},
+            {left: '\\[', right: '\\]', display: true}
+        ],
+        throwOnError : false
+    });">
 </script>
 {% endif %}
-
