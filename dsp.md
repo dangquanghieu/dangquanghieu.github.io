@@ -10,11 +10,11 @@ Tôi tham gia giảng dạy môn này từ khi mới về trường ĐHBK HN nă
 là thầy Nguyễn Quốc Trung, tác giả cuốn "Xử lý số tín hiệu" mà sinh viên Điện tử - Viễn thông của BK 
 chắc là đã quá quen rồi. Hồi đó chưa có môn "Tín hiệu và hệ thống" (THHT) nên phần đầu của môn "Xử lý tín hiệu số" (XLTH)
 vẫn là về tín hiệu và hệ thống rời rạc. Đến đầu những năm 2010, khi THHT chính thức đưa vào giảng dạy thì XLTH
-cũng cần thay đổi. Tôi là người viết đề cương mới cho cả hai môn. Cũng phải thừa nhận là môn XLTH thay đổi chưa đủ, 
-nhiều nội dung lẽ ra phải có nhưng chưa có. Lý do chính ở đây vẫn là thời lượng có hạn.
+cũng cần thay đổi. Nhưng cũng phải thừa nhận là thay đổi chưa đủ, nhiều nội dung lẽ ra phải có nhưng chưa có. 
+Lý do chính ở đây vẫn là thời lượng có hạn.
 
-Do vậy, mỗi năm học tôi lại thay đổi, bổ sung một ít kiến thức mới (so với đề cương). Thể hiện qua nội dung slides. 
-Tôi không có ý định viết giáo trình mới cho môn này bởi vì đã có hai cuốn (tiếng Việt) của thầy Trung, 
+Do vậy, cứ sau vài năm tôi lại thay đổi, bổ sung một ít kiến thức mới (so với đề cương). Thể hiện qua nội dung slides. 
+Tôi chưa có ý định viết giáo trình mới cho môn này bởi vì đã có hai cuốn (tiếng Việt) của thầy Trung, 
 và các giáo trình (tiếng Anh) kinh điển về DSP trên thế giới (như các cuốn DSP của Proakis và của Oppenheim).
 
 ---
