@@ -2,6 +2,7 @@
 layout: default
 title: "Bài viết về phương trình bậc 2"
 math: true
+permalink: /test/
 ---
 
 # Hướng dẫn giải phương trình bậc 2
