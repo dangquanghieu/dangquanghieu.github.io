@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Convolution - Số phận long đong của một thuật ngữ"
+title: "Convolution - số phận long đong của một thuật ngữ"
 date: 2026-10-03
 math: true
 ---
