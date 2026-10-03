@@ -42,7 +42,7 @@ Tuy nhiên, bản thân từ "convolution" dùng trong CNN lại không chính x
 
 $$
 \begin{equation}\label{eq:corr}
-x_1[n] * x_2[n]: = \sum_{m=\infty}^\infty x_1[m]x_2[m-n]
+r_{xy}[n]: = \sum_{m=\infty}^\infty x[m]y[m-n]
 \end{equation}
 $$
 
