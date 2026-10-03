@@ -26,7 +26,7 @@ $$
 
 Ta thấy hai công thức trên về bản chất là một, nên người ta vẫn dùng chung dấu * để biểu diễn, khi đó sẽ gọi chung là "phép chập", hoặc đơn giản hơn: "chập". Chẳng hạn, ta có thể nói $x(t)$ chập với $h(t)$. 
 
-Tuy nhiên, hai công thức trên vẫn có khác biệt, một trường hợp tính tổng, trường hợp kia tính tích phân. 
+Hai công thức trên vẫn có khác biệt, một trường hợp tính tổng, trường hợp kia tính tích phân. 
 Do vậy, khi cần phân biệt rõ ràng, người ta sẽ gọi phép toán trong
 $\eqref{eq:dt_conv}$ là *tổng chập*, còn phép toán trong $\eqref{eq:ct_conv}$ là *tích phân chập*.
 
@@ -34,9 +34,9 @@ Tuy nhiên, thuật ngữ này từng có một tên gọi khác, và có lẽ h
 
 Nếu chỉ sử dụng từ *tích chập* riêng cho trường hợp rời rạc thì hoàn toàn ổn, nhưng khi bắt đầu giảng dạy môn Tín hiệu và hệ thống, khi cần phân biệt, so sánh với trường hợp liên tục thì gặp vấn đề. Nếu giữ nguyên *tích chập* thì ta không thể gọi phép toán cho trường hợp rời rạc là *tổng tích chập*, cho trường hợp liên tục là *tích phân tích chập* được. Đơn giản là rất ngang tai :)
 
-Vậy nên, mặc dù là học trò của thầy Trung, tôi đã *tự tiện* dùng các từ *chập, phép chập, tổng chập, tích phân chập* khi giảng dạy môn THHT, kể cả môn XLTH nữa. Bản thân đồ án tốt nghiệp đại học của tôi (năm 1999, dưới sự hướng dẫn của thầy Trung) cũng là về mã chập (convolutional codes), ngay hồi đó đã không dùng từ mã tích chập nhé (bởi vì cũng rất ngang tai!)
+Vậy nên, mặc dù là học trò của thầy Trung, tôi đã *tự tiện* dùng các từ *chập, phép chập, tổng chập, tích phân chập* khi giảng dạy môn THHT, kể cả môn XLTH nữa. Bản thân đồ án tốt nghiệp đại học của tôi (năm 1999, dưới sự hướng dẫn của thầy Trung) cũng là về *mã chập* (convolutional codes), ngay hồi đó đã không dùng từ *mã tích chập* nhé (bởi vì cũng rất ngang tai!)
 
-Chưa hết. Tiếp tục số phận long đong của thuật ngữ này. Vào thủa AI / Deep Learning bắt đầu nổi lên (giữa những năm 2015), một (vài) cựu sinh viên ĐT-VT đã nhanh chóng tiếp nhận kiến thức mới, dịch sang tiếng Việt và chia sẻ với cộng đồng khoa học VN. Cụm từ "CNN" được dịch thành "mạng nơ-ron tích chập", và cho đến nay vẫn được sử dụng rộng rãi. Không vấn đề gì hết!
+Chưa hết. Tiếp tục số phận long đong của thuật ngữ này. Vào thủa AI / Deep Learning bắt đầu nổi lên (giữa những năm 2010), một (vài) cựu sinh viên ĐT-VT đã nhanh chóng tiếp nhận kiến thức mới, dịch sang tiếng Việt và chia sẻ với cộng đồng khoa học VN. Cụm từ "CNN" được dịch thành "mạng nơ-ron tích chập", và cho đến nay vẫn được sử dụng rộng rãi. Không vấn đề gì hết!
 
 Tuy nhiên, bản thân từ "convolution" dùng trong CNN lại không chính xác. Cộng đồng khoa học trên thế giới, và cả thầy Andrew Ng. trong khóa học Machine Learning nổi tiếng cũng đã thừa nhận rằng dùng thuật ngữ "convolution" ở đây là sai. Từ đúng phải là "correlation" - *phép tương quan*. 
 
