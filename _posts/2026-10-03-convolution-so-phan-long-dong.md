@@ -46,6 +46,6 @@ x_1[n] * x_2[n]: = \sum_{m=\infty}^\infty x_1[m]x_2[m-n]
 \end{equation}
 $$
 
-Công thức trên là *phép tương quan chéo* cho hai dãy thực. Ta có thể dễ dàng thay đổi công thức cho trường hợp tín hiệu 2D (như hình ảnh). Mới nhìn thì thấy $\eqref{eq:corr}$ rất giống với $\eqref{eq:dt_conv}$. Khác biệt ở đây là ở biến số của số hạng cuối cùng. Phép chập cần phải thực hiện lấy đối xứng, sau đó mới dịch, nhân, cộng. Trong khi đó, phép tương quan không có phần lấy đối xứng, mà thực hiện dich, nhân, cộng luôn. Trong một số trường hợp đặc biệt, khi bản thân $x_2[n]$ đã đối xứng, thì phép tương quan có kết quả giống như phép chập; nhưng vẫn không thể sử dụng các tính chất như giao hoán, kết hợp. 
+Công thức trên là *phép tương quan chéo*, dùng để đo mức độ giống nhau của hai dãy thực. Ta có thể dễ dàng thay đổi công thức cho trường hợp tín hiệu 2D (như hình ảnh). Mới nhìn thì thấy $\eqref{eq:corr}$ rất giống với $\eqref{eq:dt_conv}$. Khác biệt ở đây là ở biến số của số hạng cuối cùng. Phép chập cần phải thực hiện lấy đối xứng, sau đó mới dịch, nhân, cộng. Trong khi đó, phép tương quan không có phần lấy đối xứng, mà thực hiện dich, nhân, cộng luôn. Trong một số trường hợp đặc biệt, khi bản thân $x_2[n]$ đã đối xứng, thì phép tương quan có kết quả giống như phép chập; nhưng vẫn không thể sử dụng các tính chất như giao hoán, kết hợp. 
 
 Tóm lại, dùng "convolution" thay cho "correlation" ở đây là không chính xác về mặt khoa học. Người ta có thể sử dụng theo thói quen nhưng cần phân biệt rõ, tránh sai sót khi nghiên cứu chuyên sâu về CNN / Deep Learning. 
