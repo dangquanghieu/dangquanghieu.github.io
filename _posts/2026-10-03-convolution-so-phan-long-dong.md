@@ -24,8 +24,10 @@ x(t) * h(t): = \int_{\tau=\infty}^\infty x(\tau)h(t-\tau) d\tau
 \end{equation}
 $$
 
-Ta thấy hai công thức trên về bản chất là một, nên người ta vẫn dùng chung dấu $*$ để biểu diễn, khi đó sẽ gọi chung là "phép chập", hoặc đơn giản hơn: "chập". Khi đó ta có thể nói $x(t)$ chập với $h(t)$. Tuy nhiên, hai công thức trên vẫn có khác biệt, 
-một trường hợp tính tổng, trường hợp kia tính tích phân. Do vậy, khi cần phân biệt rõ ràng, người ta sẽ gọi phép toán trong
+Ta thấy hai công thức trên về bản chất là một, nên người ta vẫn dùng chung dấu * để biểu diễn, khi đó sẽ gọi chung là "phép chập", hoặc đơn giản hơn: "chập". Chẳng hạn, ta có thể nói $x(t)$ chập với $h(t)$. 
+
+Tuy nhiên, hai công thức trên vẫn có khác biệt, một trường hợp tính tổng, trường hợp kia tính tích phân. 
+Do vậy, khi cần phân biệt rõ ràng, người ta sẽ gọi phép toán trong
 $\eqref{eq:dt_conv}$ là *tổng chập*, còn phép toán trong $\eqref{eq:ct_conv}$ là *tích phân chập*.
 
 Tuy nhiên, thuật ngữ này từng có một tên gọi khác, và có lẽ hiện giờ vẫn được dùng phổ biến. Đó là từ *tích chập*. Nó xuất hiện trong những cuốn sách đầu tiên về Xử lý tín hiệu số của khoa Điện tử - Viễn thông, ĐHBK HN vào giữa những năm 1990, trong đó tiêu biểu là cuốn "Xử lý số tín hiệu" của thầy Nguyễn Quốc Trung.  Thủa đó, BK (và các trường đại học VN) đều chưa có môn Tín hiệu và hệ thống. Do vậy, môn XLTH sẽ đảm nhiệm luôn phần THHT rời rạc. Khi đó "convolution" được dịch là "tích chập". Phải nói luôn là dịch như này không sai, thuật ngữ này trong tiếng Pháp là *produit de convolution* (thầy Trung là "dân" tiếng Pháp), ngay cả một số ít tài liệu tiếng Anh vẫn dùng từ *convolution product*. Tuy nhiên, gần như tuyệt đại đa số những tài liệu về Tín hiệu và hệ thống, cũng như về Xử lý tín hiệu số trên thế giới (bằng tiếng Anh) thì lại không sử dụng từ này, chỉ đơn thuần là *convolution*. 
