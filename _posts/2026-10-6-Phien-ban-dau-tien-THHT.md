@@ -4,7 +4,7 @@ title: "Phiên bản đầu tiên của sách Tín hiệu và hệ thống"
 date: 2026-10-06
 ---
 
-Sau nhiều năm viết, bỏ dở, viết, bỏ dở, cuối cùng tôi cũng (tự cho là) hoàn thành được phiên bản đầu tiên cuốn *Tín hiệu và hệ thống*, bài giảng cho sinh viên năm 2,3 các ngành Điện, Điện tử, Viễn thông, Công nghệ thông tin và Cơ khí các trường đại học kỹ thuật.  
+Sau nhiều năm viết, bỏ dở, viết, bỏ dở, cuối cùng tôi cũng (tự cho là) hoàn thành được phiên bản đầu tiên cuốn *Tín hiệu và hệ thống*, bài giảng cho sinh viên năm 2,3 các ngành Điện, Điện tử, Viễn thông, Tự động hóa, Công nghệ thông tin và Cơ khí các trường đại học kỹ thuật.  
 
 Tôi xuất bản cuốn này dưới dạng ebook: pdf, miễn phí. Quan điểm của tôi là một cuốn sách khi ra đời cần được đến tay bạn đọc: nhiều nhất, nhanh nhất và dễ dàng nhất có thể. Ngoài ra, với tư cách là một tài liệu giảng dạy, học tập thì cuốn sách đó cũng nên được cập nhật thường xuyên, đặc biệt trong thời đại bùng nổ thông tin và tri thức này.
 
