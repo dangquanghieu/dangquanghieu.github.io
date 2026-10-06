@@ -18,4 +18,4 @@ Kế hoạch cho phiên bản tiếp theo (có thể không thực hiện đư�
 - Viết một phần riêng về OFDM trong chương Hệ thống thông tin. 
 - Viết thêm một chương giới thiệu về Hệ điều khiển dưới góc nhìn của Tín hiệu và hệ thống.
 
-Thú thật là tôi vui, và tự hào lắm! Cũng hồi hộp mong nhận được phản hồi từ bạn đọc, xin cảm ơn! Hãy gửi mail cho tôi tới: hieu chấm dangquang tại hust chấm edu chấm vn
+Thú thật là tôi vui, và tự hào lắm! Cũng hồi hộp mong nhận được phản hồi từ bạn đọc. Hãy gửi mail cho tôi tới: hieu chấm dangquang tại hust chấm edu chấm vn. Xin cảm ơn!
