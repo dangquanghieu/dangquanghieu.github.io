@@ -12,7 +12,9 @@ Môn *Tín hiệu và hệ thống* (THHT) được ĐHBK HN đưa vào chương
 
 ### Bài giảng Tín hiệu và hệ thống
 
-Tôi đã viết phiên bản đầu tiên (2026-10-6) của cuốn *Tín hiệu và hệ thống*. Tải về [ở đây](https://github.com/dangquanghieu/book-thht/releases/latest/download/TinHieuHeThong.pdf)
+Tôi đã hoàn thành phiên bản đầu tiên (2026-10-6) của cuốn *Tín hiệu và hệ thống*. 
+
+Tải về [ở đây](https://github.com/dangquanghieu/book-thht/releases/latest/download/TinHieuHeThong.pdf)
 
 ![Sách THHT](./assets/images/trang-dau-cat-web.jpg)
 
