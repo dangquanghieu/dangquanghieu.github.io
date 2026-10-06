@@ -10,9 +10,9 @@ Môn *Tín hiệu và hệ thống* (THHT) được ĐHBK HN đưa vào chương
 
 ---
 
-# Bài giảng Tín hiệu và hệ thống
+### Bài giảng Tín hiệu và hệ thống
 
-Tôi đã viết (và biên tập xong, có nhờ Claude biên tập cùng) phiên bản đầu tiên (2026-10-6) của cuốn *Tín hiệu và hệ thống*. Có thể nói đây là bài giảng mà tôi vẫn dùng cho môn này kể từ đầu nhưng đến bây giờ mới được tổng hợp lại thành sách. Chưa dám gọi nó là giáo trình, vì chưa được nhóm chuyên môn và đại học phê duyệt. 
+Tôi đã viết phiên bản đầu tiên (2026-10-6) của cuốn *Tín hiệu và hệ thống*. Tải về [ở đây](https://github.com/dangquanghieu/book-thht/releases/latest/download/TinHieuHeThong.pdf)
 
 ![Sách THHT](./assets/images/trang-dau-cat-web.jpg)
 
