@@ -99,6 +99,11 @@
         color: #90caf9 !important;        // Màu khi di chuột vào
       }
     }
+
+    /* Thẻ <b> và <strong> */
+    p b, p strong {
+      color: #e0e0e0 !important;
+    }
   }
 
   // Khung chứa mã nguồn (Code Blocks) và các đoạn code ngắn
