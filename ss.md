@@ -6,7 +6,7 @@ permalink: /ss/
 
 ## Tín hiệu và hệ thống 
 
-Môn *Tín hiệu và hệ thống* (THHT) được ĐHBK HN đưa vào chương trình giảng dạy từ đầu những năm 2010. Tôi được giao nhiệm vụ soạn đề cương để dạy sinh viên năm 2-3 với vai trò là môn cơ sở của ngành Điện tử - Viễn thông. Tiện thể tôi làm luôn slides trên Latex. Từ đó đến nay slides vẫn liên tục được cập nhật nhưng về cơ bản vẫn giữ nguyên cấu trúc ban đầu. Tuy nhiên giáo trình tiếng Việt lại chưa có. Tôi bắt đầu viết từ khoảng năm 2015, nhưng nhiều lần bỏ dở vì nhiều lí do. 
+Môn *Tín hiệu và hệ thống* (THHT) được ĐHBK HN đưa vào chương trình giảng dạy từ đầu những năm 2010. Tôi được giao nhiệm vụ soạn đề cương để dạy sinh viên năm 2-3 với vai trò là môn cơ sở của ngành Điện tử - Viễn thông. Đến nay đã có đủ bài giảng và slides cho môn học. 
 
 ---
 
