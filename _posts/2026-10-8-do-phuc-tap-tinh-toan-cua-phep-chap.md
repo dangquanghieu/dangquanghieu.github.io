@@ -24,14 +24,14 @@ rồi cộng tất cả lại (chiều dài của $y[n]$ là $L+P-1$).
 Tuy nhiên, ta có thể tính nhanh hơn khi quan sát toàn bộ quá trình tính toán theo định nghĩa. 
 Hai dãy xếp hàng cạnh nhau (một dãy đầu vào, và dãy đáp ứng xung sau khi lấy đối xứng). 
 Một dãy đứng im, dãy kia dịch chuyển lần lượt từng phần tử một. Mỗi lần dịch chuyển, các cặp đối diện nhau 
-sẽ nhân với nhau, sau đó cộng kết quả lại. \emph{Lưu ý}: trong toàn bộ quá trình, mỗi phần tử của dãy này
+sẽ nhân với nhau, sau đó cộng kết quả lại. *Lưu ý*: trong toàn bộ quá trình, mỗi phần tử của dãy này
 sẽ chỉ đối diện (gặp) mỗi phần tử của dãy kia đúng một lần duy nhất.
 
 Như vậy, số lần gặp nhau được tính bằng chiều dài của dãy này nhân với chiều dài của dãy kia. Nói cách khác, 
 tổng số phép nhân sẽ là $LP$.
 
 Sau khi gặp nhau (và thực hiện phép nhân), chúng ta sẽ có $LP$ kết quả. Các kết quả này sẽ được gom lại (cộng)
-để ra $L+P-1$ giá trị đầu ra (mỗi giá trị đầu ra nhận ít nhất một kết quả). \emph{Lưu ý}: mỗi kết quả trong tổng số $LP$ kết quả trên sẽ chỉ được sử dụng đúng một lần duy nhất.
+để ra $L+P-1$ giá trị đầu ra (mỗi giá trị đầu ra nhận ít nhất một kết quả). *Lưu ý*: mỗi kết quả trong tổng số $LP$ kết quả trên sẽ chỉ được sử dụng đúng một lần duy nhất.
 
 Mặt khác, mỗi phép cộng gộp hai số hạng thành một, tức là làm giảm số lượng số hạng đi đúng một.
 Để giảm từ $LP$ số hạng xuống còn $L+P-1$ giá trị đầu ra cần giảm $LP-(L+P-1)$ số hạng.
