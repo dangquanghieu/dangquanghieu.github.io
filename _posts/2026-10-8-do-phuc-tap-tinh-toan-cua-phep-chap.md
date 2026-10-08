@@ -36,7 +36,11 @@ Sau khi gặp nhau (và thực hiện phép nhân), chúng ta sẽ có $LP$ kế
 Mặt khác, mỗi phép cộng gộp hai số hạng thành một, tức là làm giảm số lượng số hạng đi đúng một.
 Để giảm từ $LP$ số hạng xuống còn $L+P-1$ giá trị đầu ra cần giảm $LP-(L+P-1)$ số hạng.
 
-Do đó, tổng số phép cộng sẽ là: $LP - (L+P-1) = (L-1)(P-1)$
+Do đó, tổng số phép cộng sẽ là: 
+
+$$
+LP - (L+P-1) = (L-1)(P-1)
+$$
 
 Với cùng cách tiếp cận trên, chúng ta có thể dễ dàng viết code Python để tính phép chập như dưới đây
 (bỏ qua các vị trí thời gian do tính chất dịch của phép chập).
