@@ -19,7 +19,7 @@ Câu hỏi đặt ra là phép chập này có độ phức tạp tính toán nh
 theo công thức $\eqref{eq:dt_conv}$ thì cần bao nhiêu phép nhân, bao nhiêu phép cộng? 
 
 Có nhiều cách để tính các số lượng này. Ta có thể đếm số phép nhân và phép cộng cho từng giá trị của $y[n]$, 
-rồi cộng tất cả lại (chiều dài của $y[n]$ là $L+P-1$). 
+rồi cộng tất cả lại. 
 
 Tuy nhiên, ta có thể tính nhanh hơn khi quan sát toàn bộ quá trình tính toán theo định nghĩa. 
 Hai dãy xếp hàng cạnh nhau (một dãy đầu vào, và dãy đáp ứng xung sau khi lấy đối xứng). 
