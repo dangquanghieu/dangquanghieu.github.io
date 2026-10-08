@@ -57,6 +57,47 @@
 }
 
 /* ==========================================================================
+   CODE – LIGHT MODE (mặc định): bảng màu GitHub Light (Primer)
+   Đặt TRƯỚC khối dark mode để dark mode ghi đè được (cùng specificity)
+   ========================================================================== */
+pre {
+  background-color: #f6f8fa;
+  color: #1f2328;
+  border: 1px solid #d0d7de;
+}
+
+.highlight {
+  .c, .c1, .cm, .cs, .ch, .cd, .cpf { color: #6e7781; font-style: italic; }
+  .cp                               { color: #cf222e; font-weight: normal; }
+
+  .k, .kc, .kd, .kn, .kp, .kr, .kv, .ow { color: #cf222e; font-weight: normal; }
+  .kt                                   { color: #cf222e; font-weight: normal; }
+
+  .s, .s1, .s2, .sa, .sb, .sc, .sd, .se,
+  .sh, .si, .sx, .sr, .ss, .dl          { color: #0a3069; }
+
+  .m, .mi, .mf, .mh, .mo, .mb, .mx, .il { color: #0550ae; }
+
+  .nf, .fm      { color: #8250df; font-weight: normal; }
+  .nc, .nn      { color: #953800; font-weight: normal; }
+  .nb, .bp      { color: #0550ae; }
+  .nd           { color: #8250df; font-weight: normal; }
+  .ne           { color: #953800; font-weight: normal; }
+  .na, .nt      { color: #116329; font-weight: normal; }
+  .nv, .vc, .vg, .vi, .vm { color: #953800; }
+  .no           { color: #0550ae; }
+  .n, .p, .w    { color: #1f2328; }
+  .o            { color: #cf222e; font-weight: normal; }
+
+  .err { color: #82071e; background-color: transparent; }
+  .gd  { color: #82071e; background-color: #ffebe9; }
+  .gi  { color: #116329; background-color: #dafbe1; }
+  .gh, .gu { color: #0550ae; font-weight: bold; }
+  .ge  { font-style: italic; }
+  .gs  { font-weight: bold; }
+}
+
+/* ==========================================================================
    DARK MODE THEO CÀI ĐẶT HỆ THỐNG
    ========================================================================== */
 @media (prefers-color-scheme: dark) {
