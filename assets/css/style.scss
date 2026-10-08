@@ -99,10 +99,16 @@
 
   /* ---------- Code ---------- */
 
-  // Khối code (fenced code block do Rouge sinh ra)
-  pre,
-  .highlight,
-  .highlighter-rouge pre {
+  // Khối code (fenced code block do Rouge sinh ra):
+  // <div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+  // Chỉ <pre> có nền + viền; các <div> bọc ngoài phải trong suốt, không viền
+  div.highlighter-rouge,
+  div.highlight {
+    background: transparent !important;
+    border: none !important;
+  }
+
+  pre {
     background-color: #161b22 !important;
     color: #e6edf3 !important;
     border: 1px solid #30363d !important;
