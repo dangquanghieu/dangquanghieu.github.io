@@ -30,9 +30,9 @@ sẽ chỉ đối diện (gặp) mỗi phần tử của dãy kia đúng một l
 Như vậy, số lần gặp nhau được tính bằng chiều dài của dãy này nhân với chiều dài của dãy kia. Nói cách khác, 
 tổng số phép nhân sẽ là $LP$.
 
-Với cùng cách tiếp cận, chúng ta cũng có thể tính được tổng số phép cộng, nhưng tôi sẽ không trình bày ở đây nữa.
+Với cùng cách tiếp cận, chúng ta cũng có thể tính được tổng số phép cộng.
 
-Dưới đây là code Python để tính phép chập (bỏ qua các vị trí thời gian do tính chất dịch của phép chập).
+Dưới đây là code Python để tính phép chập.
 
 ```python
 import numpy as np
@@ -51,7 +51,7 @@ for i in range(L):
 print(y)
 ```
 
-Ngược lại, nếu từ đoạn code trên ta cũng tính được tổng số phép nhân, và tổng số phép cộng 
+Ngược lại, từ đoạn code trên ta cũng dễ dàng tính được tổng số phép nhân, và tổng số phép cộng 
 (sau khi bỏ đi những lần cộng với không). Người ta hay nói "code is poetry", nhưng với tôi, 
 toán hay thuật toán mới là đẹp đích thực. Chỉ cần một chút quan sát vào bản chất, một chút đánh giá 
 bài toán ở một góc nhìn khác, chúng ta đã có thể có được lời giải - ít công thức nhất, ít dòng lệnh nhất, 
