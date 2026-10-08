@@ -30,20 +30,9 @@ sẽ chỉ đối diện (gặp) mỗi phần tử của dãy kia đúng một l
 Như vậy, số lần gặp nhau được tính bằng chiều dài của dãy này nhân với chiều dài của dãy kia. Nói cách khác, 
 tổng số phép nhân sẽ là $LP$.
 
-Sau khi gặp nhau (và thực hiện phép nhân), chúng ta sẽ có $LP$ kết quả. Các kết quả này sẽ được gom lại (cộng)
-để ra $L+P-1$ giá trị đầu ra (mỗi giá trị đầu ra nhận ít nhất một kết quả). *Lưu ý*: mỗi kết quả trong tổng số $LP$ kết quả trên sẽ chỉ được sử dụng đúng một lần duy nhất.
+Với cùng cách tiếp cận, chúng ta cũng có thể tính được tổng số phép cộng, nhưng tôi sẽ không trình bày ở đây nữa.
 
-Mặt khác, mỗi phép cộng gộp hai số hạng thành một, tức là làm giảm số lượng số hạng đi đúng một.
-Để giảm từ $LP$ số hạng xuống còn $L+P-1$ giá trị đầu ra cần giảm $LP-(L+P-1)$ số hạng.
-
-Do đó, tổng số phép cộng sẽ là: 
-
-$$
-LP - (L+P-1) = (L-1)(P-1)
-$$
-
-Với cùng cách tiếp cận trên, chúng ta có thể dễ dàng viết code Python để tính phép chập như dưới đây
-(bỏ qua các vị trí thời gian do tính chất dịch của phép chập).
+Dưới đây là code Python để tính phép chập (bỏ qua các vị trí thời gian do tính chất dịch của phép chập).
 
 ```python
 import numpy as np
