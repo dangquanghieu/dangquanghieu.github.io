@@ -18,7 +18,7 @@ $$
 Câu hỏi đặt ra là phép chập này có độ phức tạp tính toán như thế nào? Cụ thể hơn là nếu tính trực tiếp 
 theo công thức $\eqref{eq:dt_conv}$ thì cần bao nhiêu phép nhân, bao nhiêu phép cộng? 
 
-Có nhiều cách để tính các số lượng này. Ta có thể đếm số phép nhân và phép cộng cho từng giá trị của $y[n]$, 
+Có nhiều cách. Ta có thể đếm số phép nhân và phép cộng cho từng giá trị của $y[n]$, 
 rồi cộng tất cả lại. 
 
 Tuy nhiên, ta có thể tính nhanh hơn khi quan sát toàn bộ quá trình tính toán theo định nghĩa. 
@@ -30,9 +30,7 @@ sẽ chỉ đối diện (gặp) mỗi phần tử của dãy kia đúng một l
 Như vậy, số lần gặp nhau được tính bằng chiều dài của dãy này nhân với chiều dài của dãy kia. Nói cách khác, 
 tổng số phép nhân sẽ là $LP$.
 
-Với cùng cách tiếp cận, chúng ta cũng có thể tính được tổng số phép cộng.
-
-Dưới đây là code Python để tính phép chập.
+Với cùng cách tiếp cận, chúng ta cũng có thể tính được tổng số phép cộng. Dưới đây là code Python để tính phép chập.
 
 ```python
 import numpy as np
