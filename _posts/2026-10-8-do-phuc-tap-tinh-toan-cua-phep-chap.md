@@ -50,4 +50,4 @@ print(y)
 ```
 
 Ngược lại, từ đoạn code trên ta cũng dễ dàng tính được tổng số phép nhân, và tổng số phép cộng 
-(sau khi bỏ đi những lần cộng với không). Một bài toán nho nhỏ, nhưng chỉ cần một chút quan sát vào bản chất, một chút đánh giá ở một góc nhìn khác, chúng ta đã có thể có được lời giải - ít công thức nhất, ít dòng lệnh nhất, đơn giản nhất và ... đẹp nhất! 
+(sau khi bỏ đi những lần cộng với không). Một bài toán nho nhỏ, một chút quan sát vào bản chất, một chút đánh giá ở một góc nhìn khác, chúng ta đã có được một lời giải - ít công thức nhất, ít dòng lệnh nhất, đơn giản nhất và ... đẹp nhất! 
