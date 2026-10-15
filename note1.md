@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Bút ký dưới hầm - 1
+title: Bút ký dưới hầm - (1)
 permalink: /note1/
 ---
 
