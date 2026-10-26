@@ -5,7 +5,7 @@ title: Homepage
 
 ### About
 
-Hieu is a lazy employee (at [HUST](http://www.hust.edu.vn/)) and a devoted dreamer. 
+Hieu is a lazy employee (at [HUST](https://hust.edu.vn/)) and a devoted dreamer. 
 He used to be a prolific blogger, a street photographer, and a reluctant translator. 
 He likes playing, creating things and doing nothing :-)  
 
