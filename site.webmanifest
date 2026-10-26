@@ -1,6 +1,6 @@
 {
   "name": "Đặng Quang Hiếu",
-  "short_name": "QH Dang",
+  "short_name": "dangquanghieu",
   "icons": [
     {
       "src": "/icon-192.png",
@@ -15,5 +15,5 @@
   ],
   "theme_color": "#1D5C63",
   "background_color": "#ffffff",
-  "display": "standalone"
+  "display": "browser"
 }
