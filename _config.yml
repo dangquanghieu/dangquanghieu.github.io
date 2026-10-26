@@ -1,6 +1,14 @@
 title: Đặng Quang Hiếu
 description: wndrr / drmr / prcrstntr
+url: https://dangquanghieu.com
+lang: vi
+locale: vi_VN
 remote_theme: pages-themes/minimal@v0.2.0
-
 plugins:
   - jekyll-remote-theme
+  - jekyll-sitemap
+exclude:
+  - render_mpl.py
+  - favicon_multi.py
+  - head-snippet.html
+  - README.md
