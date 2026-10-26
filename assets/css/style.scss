@@ -62,13 +62,6 @@ h1, h2, h3 { line-height: 1.3; font-weight: 600; }
   }
 }
 
-// Màu chữ đậm cho mobile chỉ áp dụng ở light mode
-@media (max-width: 640px) and (prefers-color-scheme: light) {
-  section p, section li {
-    color: #222222 !important;
-  }
-}
-
 /* ==========================================================================
    CODE – LIGHT MODE (mặc định): bảng màu GitHub Light (Primer)
    Đặt TRƯỚC khối dark mode để dark mode ghi đè được (cùng specificity)
