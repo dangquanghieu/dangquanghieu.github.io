@@ -6,7 +6,7 @@ permalink: /archive/
 
 ## Archive 
 
-Following is the list of all posts, ordered by date and time.
+Following is the list of all writings.
 
 ---
 

@@ -22,14 +22,14 @@ He likes playing, creating things and doing nothing :-)
 
 ---
 
-### Recents
+### Writings
 
 {% if site.posts.size > 0 %}
-{% for post in site.posts limit:10 %}
-* {{ post.date | date: "%d/%m/%Y" }} — [{{ post.title }}]({{ post.url | relative_url }})
+{% for post in site.posts limit:7 %}
+* [{{ post.title }}]({{ post.url | relative_url }})
 {% endfor %}
 {% else %}
 * No published post yet.
 {% endif %}
 
-**[View all posts]({{ "/archive/" | relative_url }})**
+**[View all]({{ "/archive/" | relative_url }})**
