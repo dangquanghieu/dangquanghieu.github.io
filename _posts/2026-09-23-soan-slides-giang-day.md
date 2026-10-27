@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /2026/09/23/soan-slides-giang-day.html
 layout: post
 title: "Soạn slides giảng dạy"
 date: 2026-09-23

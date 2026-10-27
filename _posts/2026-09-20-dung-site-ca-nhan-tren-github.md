@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /2026/09/20/dung-site-ca-nhan-tren-github.html
 layout: post
 title: "Dựng site cá nhân trên GitHub"
 date: 2026-09-20

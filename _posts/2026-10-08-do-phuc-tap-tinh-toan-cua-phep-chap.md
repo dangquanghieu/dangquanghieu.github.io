@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /2026/10/08/do-phuc-tap-tinh-toan-cua-phep-chap.html
 layout: post
 title: "Độ phức tạp tính toán của phép chập"
 date: 2026-10-08

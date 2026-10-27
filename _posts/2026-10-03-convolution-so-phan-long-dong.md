@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /2026/10/03/convolution-so-phan-long-dong.html
 layout: post
 title: "Convolution - số phận long đong của một thuật ngữ"
 date: 2026-10-03

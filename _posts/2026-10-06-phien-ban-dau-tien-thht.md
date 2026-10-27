@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /2026/10/06/Phien-ban-dau-tien-THHT.html
 layout: post
 title: "Phiên bản đầu tiên của sách Tín hiệu và hệ thống"
 date: 2026-10-06

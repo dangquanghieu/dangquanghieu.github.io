@@ -1,4 +1,6 @@
 ---
+redirect_from:
+  - /2026/09/19/bai-dau-tien.html
 layout: post
 title: "Tôi sẽ viết gì đây?"
 date: 2026-09-19
